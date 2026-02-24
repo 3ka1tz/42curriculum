@@ -45,3 +45,20 @@ I am currently rebuilding all my completed projects. I will be uploading and add
     <td>This project is your very first project as a student at 42. You will need to recode a few functions from the C standard library, as well as some other utility functions that you will use throughout your whole curriculum.</td>
   </tr>
 </table>
+
+### Rank 01
+
+<table>
+  <tr>
+    <th><a href="https://github.com/3ka1tz/get_next_line">Get_next_line</a></th>
+    <td></td>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/3ka1tz/ft_printf">Ft_printf</a></th>
+    <td></td>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/3ka1tz/born2beroot">Born2beroot</a></th>
+    <td></td>
+  </tr>
+</table>
