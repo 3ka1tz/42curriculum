@@ -39,5 +39,9 @@ I am currently rebuilding all my completed projects. I will be uploading and add
 
 ### Rank 00
 
-**[Libft](https://github.com/3ka1tz/libft):**
-This project is your very first project as a student at 42. You will need to recode a few functions from the C standard library, as well as some other utility functions that you will use throughout your whole curriculum.
+<table>
+  <tr>
+    <th><a href="https://github.com/3ka1tz/libft">Libft</a></th>
+    <td>This project is your very first project as a student at 42. You will need to recode a few functions from the C standard library, as well as some other utility functions that you will use throughout your whole curriculum.</td>
+  </tr>
+</table>
