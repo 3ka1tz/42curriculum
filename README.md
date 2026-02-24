@@ -51,14 +51,14 @@ I am currently rebuilding all my completed projects. I will be uploading and add
 <table>
   <tr>
     <th><a href="https://github.com/3ka1tz/get_next_line">Get_next_line</a></th>
-    <td></td>
+    <td>Whether it's a file, stdin, or even later a network connection, you'll always need a way to read content line by line. It's time to start working on this function, which will be essential for your future projects.</td>
   </tr>
   <tr>
     <th><a href="https://github.com/3ka1tz/ft_printf">Ft_printf</a></th>
-    <td></td>
+    <td>This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects.</td>
   </tr>
   <tr>
     <th><a href="https://github.com/3ka1tz/born2beroot">Born2beroot</a></th>
-    <td></td>
+    <td>This project aims to introduce you to the wonderful world of virtualization.</td>
   </tr>
 </table>
